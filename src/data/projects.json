@@ -1,0 +1,55 @@
+[
+    {
+      "title": "TicToc-TOE GAME",
+      "imageSrc": "projects/tic.png",
+      "description": "This is a  simple tic toc toe game project made to learn some basic javascript logicDOM.",
+      "skills": ["HTML", "css", "javascript"],
+      "demo": " https://playful-kataifi-e931c5.netlify.app/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "BULB-ON/OFF",
+      "imageSrc": "projects/bulb.png",
+      "description": "This is a simple javascript to learn  on click event in javascript  .",
+      "skills": ["html", "css", "javascript"],
+      "demo": "https://legendary-swan-b24043.netlify.app/",
+      "source": "https://github.com/AMANPANDYA114/BULK-ON-OFF-USING-JAVASCRIPT"
+    },
+    {
+      "title": "ANIMATED WEBSITE",
+      "imageSrc": "projects/animate.png",
+      "description": "This is a gsap animated website in which contain animated images and on scroll circle moving with background changing.",
+      "skills": ["HTML", "CSS", "javascript"],
+      "demo": "https://prismatic-pie-5623a2.netlify.app/",
+      "source": "https://github.com/AMANPANDYA114/TASK2/tree/main/task2"
+      
+    },
+    {
+        "title": "WEATHER-APP",
+        "imageSrc": "projects/weather2.png",
+        "description": "This is a project weather app in React  using weather api it show weather of all locations .",
+        "skills": ["React","javascript"],
+        "demo": "https://taupe-llama-ed2c15.netlify.app/",
+        "source": "https://github.com/AMANPANDYA114/WEATHER-APP-REACTJS"
+      }
+      ,
+    {
+        "title": "REACT NOTES TAKING WEBSITE",
+        "imageSrc": "projects/note.png",
+        "description": "This is a project made to  learn  crude operation techniques using react .",
+        "skills": ["React","javascript"],
+        "demo": "https://idyllic-cranachan-2d8e65.netlify.app/",
+        "source": "https://www.github.com"
+      }
+      ,
+    {
+        "title": "PIZZA DELIVERY WEBSITE UI",
+        "imageSrc": "projects/pizza.png",
+        "description": "This is a simpe PIZZA DELIVERY WEBSITE UI USING REACT.",
+        "skills": ["React", "javascript"],
+        "demo": "https://funny-bavarois-f44aa2.netlify.app",
+        "source": "https://github.com/AMANPANDYA114/food-website-reactjs"
+        
+      }
+  ]
+  
