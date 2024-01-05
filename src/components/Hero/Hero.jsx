@@ -63,9 +63,6 @@ export const Hero = () => {
   RESUME
 </button> */}
 
-<button className={`btn btn-primary ${styles.contactBtn} custom-bg`} onClick={() => window.location.href="aman_Resume.pdf"} download="aman_Resume.pdf">
-  RESUME
-</button>
 
 
 

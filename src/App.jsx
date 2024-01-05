@@ -6,8 +6,10 @@ import { About } from './components/About/About';
 import { Experience } from './components/Experience/Experience';
 import { Projects } from './components/Projects/Projects';
 import { Contact } from './components/Contact/Contact';
+import Form from './components/form/form';
 
 function App() {
+  
   return (
     <div className={styles.App}>
       <Navbar/>
@@ -17,6 +19,8 @@ function App() {
     <About/>
 <Experience/>
 <Projects/>
+<Form />
+
 <Contact/>
 
     </div>
