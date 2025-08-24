@@ -13,24 +13,21 @@ export const Hero = () => {
 . </p> */}
 <div className={styles.type}>
 <Typewriter
-  onInit={(typewriter) => {
+   onInit={(typewriter) => {
     typewriter
-      .typeString("I am final year graduated")
-      .pauseFor(1000)
+      .typeString("I have 1.5 years of experience as a Full Stack Developer")
+      .pauseFor(2000)
       .deleteAll()
-      .typeString("and I am a")
+      .typeString("I am a final year graduate BTECH CSE")
+      .pauseFor(1500)
       .deleteAll()
-      .typeString("web developer")
+      .typeString("I am a Web Developer")
+      .pauseFor(1500)
       .deleteAll()
-      .typeString("UI developer")
+      .typeString("I am a UI Developer")
+      .pauseFor(1500)
       .deleteAll()
-    
-      .start()
-      .callFunction(() => {
-        typewriter.stop(); // Stop the typewriter momentarily
-      })
-      .pauseFor(1000) // Pause for a moment before restarting
-      .start(); // Restart the typewriter with the loop
+      .start();
   }}
   options={{
     loop: true, // Enable the loop

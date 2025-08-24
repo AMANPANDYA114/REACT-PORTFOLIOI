@@ -7,6 +7,7 @@ import { Experience } from './components/Experience/Experience';
 import { Projects } from './components/Projects/Projects';
 import { Contact } from './components/Contact/Contact';
 import Form from './components/form/form';
+import Resumebutton from './components/ResumeButton.jsx/Resumebutton';
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
     <About/>
 <Experience/>
 <Projects/>
+<Resumebutton/>
 <Form />
 
 <Contact/>
